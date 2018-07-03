@@ -696,8 +696,8 @@ sub bias
    return %(recommendation => { return "Reword $2"; },
             view => "view/rules/bias.slp",
             rule => "Bias Language",
-            description => "Bias words and phrases may express gender, ethnic, or racial bias.  These can turn people off.  Bias-free language has the same meaning and treats people with respect.",
-            style => 'yellow',
+            description => "Fairlanguage - Bias words and phrases may express gender, ethnic, or racial bias.  These can turn people off.  Bias-free language has the same meaning and treats people with respect.",
+            style => 'unfair',
             word => $1,
             category => 'Bias');
 }
