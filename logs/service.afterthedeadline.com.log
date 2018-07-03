@@ -1,0 +1,3 @@
+/127.0.0.1 - - [03/lip/2018:22:46:46] "GET /checkDocument HTTP/1.0" 200 20 "" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36"
+/127.0.0.1 - - [03/lip/2018:22:46:47] "GET /favicon.ico HTTP/1.0" 404 26 "http://localhost:1049/checkDocument" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36"
+/127.0.0.1 - - [03/lip/2018:22:50:15] "GET /checkDocument HTTP/1.0" 200 20 "" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36"
