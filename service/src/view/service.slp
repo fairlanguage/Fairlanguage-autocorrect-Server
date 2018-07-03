@@ -4,7 +4,7 @@
     foreach $error ($1)
     {
        ($rule, $text, $path, $context, @suggestions, $unk, $tags, $index) = $error;
-       if ($rule !is $null)
+       if ($rule["style"] eq "unfair")
        {
           display("service/src/view/error.slp", $text, $rule, $context, @suggestions, $tags, $index);
        }
