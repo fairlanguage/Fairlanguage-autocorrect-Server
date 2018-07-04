@@ -1,100 +1,333 @@
-studenten	not
-coww 	not
-deutscheswort	not
-new try	not, not two
-huhu	not
-lol	not
-anderes deutsches wort ok	not
-nocheindeutscheswort	not
-All wax and no wick	iiuiu
-E-ticket	sad
-Grim Reaper	wd
-I beg to differ	DDD
-Im okay youre okay	DDD
-Legendary	DDD
-Lady Luck	DDD
-Jack of all trades 	not
-deutscheswort	not
-new try	not
-afflicted with	has a disability, has an illness
-=======
-African people	South Asian peoples
-Dwarves		Dwarfs
-East Indian 	South Asian
-Siamese twins	conjoined twins
-West Indian	Caribbean
-afflicted with	has a disability, has an illness
-amputee			person with an amputation
-black market 	underground economy, deals on the side
-black sheep 	reprobate, backslider
-blackball  	ostracize, disapprove, reject
-blacklist 	condemn, ostracize, boycott
-blackmail 	extort, threaten, demand
-businessman 	business person
-chairman 	chair, co-ordinator, convenor
-chronic mental illness	long-term mental illness, persistent mental illness, psychiatric disability
-cleaning woman 	cleaner
-clergyman 	clergy, deacon, minister, pastor, priest, rabbi
-colored people	Black peoples, people of African descent,
-common man 	average person, members of the public
-confined to a wheelchair	uses a wheelchair
-craftsman 	artisan, craftsperson
-crippled	impaired, flawed, disabled
-deaf mute	deaf
-disabled person		person with a disability
-disseminate	broadcast, inform, publicise
-dwarves		dwarfs
-epileptics		individuals with epilepsy
-fair sex 	women
-fireman 	firefighter
-forefathers 	ancestors
-founding fathers	founders
-hearing impaired	hard of hearing
-housewife 	homemaker
-ladies		women
-lady		woman
-layman		layperson, average person
-low man|woman on the totem pole	lowest rung of the ladder
-man hours 	working hours
-man in the street	public person in the street, public, member of the public
-man the \w+s	staff the, handle the
-man-made 	synthetic, artificial
-mankind 	civilization, humanity, people
-manpower 	personnel, staff, staffing requirements, workers, workforce
-master copy	top copy, original
-master of ceremonies	host, emcee
-masterful	domineering, very skilful
-mentally ill child|adult|person|boy|girl	person with mental illness, person with psychiatric disability
-middleman	wholesaler, go-between, intermediary
-mistress of ceremonies	host, emcee
-newsman 	journalist, reporter
-niggard		miser
-niggardly	miserly, stingy
-non-whites 	people of colour
-old masters	classic art, artists
-one man show	one person show
-Oriental	Asian
-orientals 	Asian peoples, East Asian peoples, Southeast Asian peoples
-paraplegics		individuals with paraplegia
-physically challenged	physically disabled
-policeman 	officer, police officer
-postman 	postal worker, mail carrier
-primitive societies 	non-industrial societies
-retarded adult		adult with mental retardation
-right-hand man	assistant
-salesman	clerk, sales rep
-schizophrenics		people who have schizophrenia
-seminal	classical, formative
-sexual preference	sexual orientation, gender orientation
-spokesman	spokesperson, representative, speaker, official
-stewardess	flight attendant
-suffering from	has a disability, has an illness
-the crippled 	people with a disability
-the disabled 	persons with disabiliites, people with disabilities
-the handicapped	people with disabilities
-the man in the street	people in general
-the rights of man	peoples/citizens rights, the rights of the individual
-tribes	ethnic groups
-wheelchair-bound	uses a wheelchair
-wives and children	families, family
-workman		worker
+Feuerwehrmann	Feuerwehrkraft
+Feuerwehrmänner	Feuerwehrkräfte
+Studenten	Studierenden, Student_innen, Student*innen
+Liebe Damen und Herren	Liebe Leute
+
+die Bürger	die Bürger_innen, die Bürger*innen
+die Politiker	die Politiker_innen, die Politiker*innen
+die Mörder	die Mörder_innen, die Mörder*innen
+die Täter	die Täter_innen, die Täter*innen
+die Mitarbeiter	die Mitarbeiter_innen, die Mitarbeiter*innen
+die Schüler	die Schüler_innen, die Schüler*innen
+die Designer	die Designer_innen, die Designer*innen
+die Programmierer	die Programmierer_innen, die Programmierer*innen
+die Entwickler	die Entwickler_innen, die Entwickler*innen
+die Techniker	die Techniker_innen, die Techniker*innen
+die Informatiker	die Informatiker_innen, die Informatiker*innen
+die Geschäftsführer	die Geschäftsführer_innen, die Geschäftsführer*innen
+die Gründer	die Gründer_innen, die Gründer*innen
+die Erzieher	die Erzieher_innen, die Erzieher*innen
+die Fahrer	die Fahrer_innen, die Fahrer*innen
+die Bauarbeiter	die Bauarbeiter_innen, die Bauarbeiter*innen
+die Klemptner	die Klemptner_innen, die Klemptner*innen
+die Musiker	die Musiker_innen, die Musiker*innen
+die Nutzer	die Nutzer_innen, die Nutzer*innen
+die User	die User_innen, die User*innen
+die Developer	die Developer_innen, die Developer*innen
+die Leiter	die Leiter_innen, die Leiter*innen
+die Schulleiter	die Schulleiter_innen, die Schulleiter*innen
+die Wähler	die Wähler_innen, die Wähler*innen
+die Pfleger	die Pfleger_innen, die Pfleger*innen
+die Ritter	die Ritter_innen, die Ritter*innen
+die Sanitäter	die Sanitäter_innen, die Sanitäter*innen
+die Sprecher	die Sprecher_innen, die Sprecher*innen
+die Manager	die Manager_innen, die Manager*innen
+die Sänger	die Sänger_innen, die Sänger*innen
+die Küntler	die Küntler_innen, die Küntler*innen
+die Berater	die Berater_innen, die Berater*innen
+die Arbeiter	die Arbeiter_innen, die Arbeiter*innen
+die Sexarbeiter	die Sexarbeiter_innen, die Sexarbeiter*innen
+die Apotheker	die Apotheker_innen, die Apotheker*innen
+die Kindergärtner	die Kindergärtner_innen, die Kindergärtner*innen
+die Wissenschaftler	die Wissenschaftler_innen, die Wissenschaftler*innen
+die Forscher	die Forscher_innen, die Forscher*innen
+die Räuber	die Räuber_innen, die Räuber*innen
+die Vergewaltiger	die Vergewaltiger_innen, die Vergewaltiger*innen
+die Verbrecher	die Verbrecher_innen, die Verbrecher*innen
+die Richter	die Richter_innen, die Richter*innen
+die Sportler	die Sportler_innen, die Sportler*innen
+die Gärtner	die Gärtner_innen, die Gärtner*innen
+die Retter	die Retter_innen, die Retter*innen
+die Handwerker	die Handwerker_innen, die Handwerker*innen
+die Maurer	die Maurer_innen, die Maurer*innen
+die Führer	die Führer_innen, die Führer*innen
+die Vertreter	die Vertreter_innen, die Vertreter*innen
+die Vertriebler	die Vertriebler_innen, die Vertriebler*innen
+die Förster	die Förster_innen, die Förster*innen
+die Jäger	die Jäger_innen, die Jäger*innen
+die Minister	die Minister_innen, die Minister*innen
+die Fleischer	die Fleischer_innen, die Fleischer*innen
+die Bäcker	die Bäcker_innen, die Bäcker*innen
+die Schriftsteller	die Schriftsteller_innen, die Schriftsteller*innen
+die Tischler	die Tischler_innen, die Tischler*innen
+die Meister	die Meister_innen, die Meister*innen
+die Reporter	die Reporter_innen, die Reporter*innen
+die Gläser	die Gläser_innen, die Gläser*innen
+die Wächter	die Wächter_innen, die Wächter*innen
+die Trinker	die Trinker_innen, die Trinker*innen
+die Träger	die Träger_innen, die Träger*innen
+die Geldgeber	die Geldgeber_innen, die Geldgeber*innen
+die Kontoinhaber	die Kontoinhaber_innen, die Kontoinhaber*innen
+die Antragssteller	die Antragssteller_innen, die Antragssteller*innen
+die Inhaber	die Inhaber_innen, die Inhaber*innen
+die Barkeeper	die Barkeeper_innen, die Barkeeper*innen
+die Kellner	die Kellner_innen, die Kellner*innen
+die Leser	die Leser_innen, die Leser*innen
+die Zuhörer	die Zuhörer_innen, die Zuhörer*innen
+die Zuschauer	die Zuschauer_innen, die Zuschauer*innen
+die YouTuber	die YouTuber_innen, die YouTuber*innen
+die Gamer	die Gamer_innen, die Gamer*innen
+die Netzwerker	die Netzwerker_innen, die Netzwerker*innen
+die Spieler	die Spieler_innen, die Spieler*innen
+die Speaker	die Speaker_innen, die Speaker*innen
+die Redner	die Redner_innen, die Redner*innen
+die Unterstützer	die Unterstützer_innen, die Unterstützer*innen
+die Trainer	die Trainer_innen, die Trainer*innen
+die Schauspieler	die Schauspieler_innen, die Schauspieler*innen
+
+
+Liebe Bürger	Liebe Bürger_innen, Liebe Bürger*innen
+Liebe Politiker	Liebe Politiker_innen, Liebe Politiker*innen
+Liebe Mörder	Liebe Mörder_innen, Liebe Mörder*innen
+Liebe Täter	Liebe Täter_innen, Liebe Täter*innen
+Liebe Mitarbeiter	Liebe Mitarbeiter_innen, Liebe Mitarbeiter*innen
+Liebe Schüler	Liebe Schüler_innen, Liebe Schüler*innen
+Liebe Designer	Liebe Designer_innen, Liebe Designer*innen
+Liebe Programmierer	Liebe Programmierer_innen, Liebe Programmierer*innen
+Liebe Entwickler	Liebe Entwickler_innen, Liebe Entwickler*innen
+Liebe Techniker	Liebe Techniker_innen, Liebe Techniker*innen
+Liebe Informatiker	Liebe Informatiker_innen, Liebe Informatiker*innen
+Liebe Geschäftsführer	Liebe Geschäftsführer_innen, Liebe Geschäftsführer*innen
+Liebe Gründer	Liebe Gründer_innen, Liebe Gründer*innen
+Liebe Erzieher	Liebe Erzieher_innen, Liebe Erzieher*innen
+Liebe Fahrer	Liebe Fahrer_innen, Liebe Fahrer*innen
+Liebe Bauarbeiter	Liebe Bauarbeiter_innen, Liebe Bauarbeiter*innen
+Liebe Klemptner	Liebe Klemptner_innen, Liebe Klemptner*innen
+Liebe Musiker	Liebe Musiker_innen, Liebe Musiker*innen
+Liebe Nutzer	Liebe Nutzer_innen, Liebe Nutzer*innen
+Liebe User	Liebe User_innen, Liebe User*innen
+Liebe Developer	Liebe Developer_innen, Liebe Developer*innen
+Liebe Leiter	Liebe Leiter_innen, Liebe Leiter*innen
+Liebe Schulleiter	Liebe Schulleiter_innen, Liebe Schulleiter*innen
+Liebe Wähler	Liebe Wähler_innen, Liebe Wähler*innen
+Liebe Pfleger	Liebe Pfleger_innen, Liebe Pfleger*innen
+Liebe Ritter	Liebe Ritter_innen, Liebe Ritter*innen
+Liebe Sanitäter	Liebe Sanitäter_innen, Liebe Sanitäter*innen
+Liebe Sprecher	Liebe Sprecher_innen, Liebe Sprecher*innen
+Liebe Manager	Liebe Manager_innen, Liebe Manager*innen
+Liebe Sänger	Liebe Sänger_innen, Liebe Sänger*innen
+Liebe Küntler	Liebe Küntler_innen, Liebe Küntler*innen
+Liebe Berater	Liebe Berater_innen, Liebe Berater*innen
+Liebe Arbeiter	Liebe Arbeiter_innen, Liebe Arbeiter*innen
+Liebe Sexarbeiter	Liebe Sexarbeiter_innen, Liebe Sexarbeiter*innen
+Liebe Apotheker	Liebe Apotheker_innen, Liebe Apotheker*innen
+Liebe Kindergärtner	Liebe Kindergärtner_innen, Liebe Kindergärtner*innen
+Liebe Wissenschaftler	Liebe Wissenschaftler_innen, Liebe Wissenschaftler*innen
+Liebe Forscher	Liebe Forscher_innen, Liebe Forscher*innen
+Liebe Räuber	Liebe Räuber_innen, Liebe Räuber*innen
+Liebe Vergewaltiger	Liebe Vergewaltiger_innen, Liebe Vergewaltiger*innen
+Liebe Verbrecher	Liebe Verbrecher_innen, Liebe Verbrecher*innen
+Liebe Richter	Liebe Richter_innen, Liebe Richter*innen
+Liebe Sportler	Liebe Sportler_innen, Liebe Sportler*innen
+Liebe Gärtner	Liebe Gärtner_innen, Liebe Gärtner*innen
+Liebe Retter	Liebe Retter_innen, Liebe Retter*innen
+Liebe Handwerker	Liebe Handwerker_innen, Liebe Handwerker*innen
+Liebe Maurer	Liebe Maurer_innen, Liebe Maurer*innen
+Liebe Führer	Liebe Führer_innen, Liebe Führer*innen
+Liebe Vertreter	Liebe Vertreter_innen, Liebe Vertreter*innen
+Liebe Vertriebler	Liebe Vertriebler_innen, Liebe Vertriebler*innen
+Liebe Förster	Liebe Förster_innen, Liebe Förster*innen
+Liebe Jäger	Liebe Jäger_innen, Liebe Jäger*innen
+Liebe Minister	Liebe Minister_innen, Liebe Minister*innen
+Liebe Fleischer	Liebe Fleischer_innen, Liebe Fleischer*innen
+Liebe Bäcker	Liebe Bäcker_innen, Liebe Bäcker*innen
+Liebe Schriftsteller	Liebe Schriftsteller_innen, Liebe Schriftsteller*innen
+Liebe Tischler	Liebe Tischler_innen, Liebe Tischler*innen
+Liebe Meister	Liebe Meister_innen, Liebe Meister*innen
+Liebe Reporter	Liebe Reporter_innen, Liebe Reporter*innen
+Liebe Gläser	Liebe Gläser_innen, Liebe Gläser*innen
+Liebe Wächter	Liebe Wächter_innen, Liebe Wächter*innen
+Liebe Trinker	Liebe Trinker_innen, Liebe Trinker*innen
+Liebe Träger	Liebe Träger_innen, Liebe Träger*innen
+Liebe Geldgeber	Liebe Geldgeber_innen, Liebe Geldgeber*innen
+Liebe Kontoinhaber	Liebe Kontoinhaber_innen, Liebe Kontoinhaber*innen
+Liebe Antragssteller	Liebe Antragssteller_innen, Liebe Antragssteller*innen
+Liebe Inhaber	Liebe Inhaber_innen, Liebe Inhaber*innen
+Liebe Barkeeper	Liebe Barkeeper_innen, Liebe Barkeeper*innen
+Liebe Kellner	Liebe Kellner_innen, Liebe Kellner*innen
+Liebe Leser	Liebe Leser_innen, Liebe Leser*innen
+Liebe Zuhörer	Liebe Zuhörer_innen, Liebe Zuhörer*innen
+Liebe Zuschauer	Liebe Zuschauer_innen, Liebe Zuschauer*innen
+Liebe YouTuber	Liebe YouTuber_innen, Liebe YouTuber*innen
+Liebe Gamer	Liebe Gamer_innen, Liebe Gamer*innen
+Liebe Netzwerker	Liebe Netzwerker_innen, Liebe Netzwerker*innen
+Liebe Spieler	Liebe Spieler_innen, Liebe Spieler*innen
+Liebe Speaker	Liebe Speaker_innen, Liebe Speaker*innen
+Liebe Redner	Liebe Redner_innen, Liebe Redner*innen
+Liebe Unterstützer	Liebe Unterstützer_innen, Liebe Unterstützer*innen
+Liebe Trainer	Liebe Trainer_innen, Liebe Trainer*innen
+Liebe Schauspieler	Liebe Schauspieler_innen, Liebe Schauspieler*innen
+
+Sehr geehrte Bürger	Sehr geehrte Bürger_innen, Sehr geehrte Bürger*innen
+Sehr geehrte Politiker	Sehr geehrte Politiker_innen, Sehr geehrte Politiker*innen
+Sehr geehrte Mörder	Sehr geehrte Mörder_innen, Sehr geehrte Mörder*innen
+Sehr geehrte Täter	Sehr geehrte Täter_innen, Sehr geehrte Täter*innen
+Sehr geehrte Mitarbeiter	Sehr geehrte Mitarbeiter_innen, Sehr geehrte Mitarbeiter*innen
+Sehr geehrte Schüler	Sehr geehrte Schüler_innen, Sehr geehrte Schüler*innen
+Sehr geehrte Designer	Sehr geehrte Designer_innen, Sehr geehrte Designer*innen
+Sehr geehrte Programmierer	Sehr geehrte Programmierer_innen, Sehr geehrte Programmierer*innen
+Sehr geehrte Entwickler	Sehr geehrte Entwickler_innen, Sehr geehrte Entwickler*innen
+Sehr geehrte Techniker	Sehr geehrte Techniker_innen, Sehr geehrte Techniker*innen
+Sehr geehrte Informatiker	Sehr geehrte Informatiker_innen, Sehr geehrte Informatiker*innen
+Sehr geehrte Geschäftsführer	Sehr geehrte Geschäftsführer_innen, Sehr geehrte Geschäftsführer*innen
+Sehr geehrte Gründer	Sehr geehrte Gründer_innen, Sehr geehrte Gründer*innen
+Sehr geehrte Erzieher	Sehr geehrte Erzieher_innen, Sehr geehrte Erzieher*innen
+Sehr geehrte Fahrer	Sehr geehrte Fahrer_innen, Sehr geehrte Fahrer*innen
+Sehr geehrte Bauarbeiter	Sehr geehrte Bauarbeiter_innen, Sehr geehrte Bauarbeiter*innen
+Sehr geehrte Klemptner	Sehr geehrte Klemptner_innen, Sehr geehrte Klemptner*innen
+Sehr geehrte Musiker	Sehr geehrte Musiker_innen, Sehr geehrte Musiker*innen
+Sehr geehrte Nutzer	Sehr geehrte Nutzer_innen, Sehr geehrte Nutzer*innen
+Sehr geehrte User	Sehr geehrte User_innen, Sehr geehrte User*innen
+Sehr geehrte Developer	Sehr geehrte Developer_innen, Sehr geehrte Developer*innen
+Sehr geehrte Leiter	Sehr geehrte Leiter_innen, Sehr geehrte Leiter*innen
+Sehr geehrte Schulleiter	Sehr geehrte Schulleiter_innen, Sehr geehrte Schulleiter*innen
+Sehr geehrte Wähler	Sehr geehrte Wähler_innen, Sehr geehrte Wähler*innen
+Sehr geehrte Pfleger	Sehr geehrte Pfleger_innen, Sehr geehrte Pfleger*innen
+Sehr geehrte Ritter	Sehr geehrte Ritter_innen, Sehr geehrte Ritter*innen
+Sehr geehrte Sanitäter	Sehr geehrte Sanitäter_innen, Sehr geehrte Sanitäter*innen
+Sehr geehrte Sprecher	Sehr geehrte Sprecher_innen, Sehr geehrte Sprecher*innen
+Sehr geehrte Manager	Sehr geehrte Manager_innen, Sehr geehrte Manager*innen
+Sehr geehrte Sänger	Sehr geehrte Sänger_innen, Sehr geehrte Sänger*innen
+Sehr geehrte Küntler	Sehr geehrte Küntler_innen, Sehr geehrte Küntler*innen
+Sehr geehrte Berater	Sehr geehrte Berater_innen, Sehr geehrte Berater*innen
+Sehr geehrte Arbeiter	Sehr geehrte Arbeiter_innen, Sehr geehrte Arbeiter*innen
+Sehr geehrte Sexarbeiter	Sehr geehrte Sexarbeiter_innen, Sehr geehrte Sexarbeiter*innen
+Sehr geehrte Apotheker	Sehr geehrte Apotheker_innen, Sehr geehrte Apotheker*innen
+Sehr geehrte Kindergärtner	Sehr geehrte Kindergärtner_innen, Sehr geehrte Kindergärtner*innen
+Sehr geehrte Wissenschaftler	Sehr geehrte Wissenschaftler_innen, Sehr geehrte Wissenschaftler*innen
+Sehr geehrte Forscher	Sehr geehrte Forscher_innen, Sehr geehrte Forscher*innen
+Sehr geehrte Räuber	Sehr geehrte Räuber_innen, Sehr geehrte Räuber*innen
+Sehr geehrte Vergewaltiger	Sehr geehrte Vergewaltiger_innen, Sehr geehrte Vergewaltiger*innen
+Sehr geehrte Verbrecher	Sehr geehrte Verbrecher_innen, Sehr geehrte Verbrecher*innen
+Sehr geehrte Richter	Sehr geehrte Richter_innen, Sehr geehrte Richter*innen
+Sehr geehrte Sportler	Sehr geehrte Sportler_innen, Sehr geehrte Sportler*innen
+Sehr geehrte Gärtner	Sehr geehrte Gärtner_innen, Sehr geehrte Gärtner*innen
+Sehr geehrte Retter	Sehr geehrte Retter_innen, Sehr geehrte Retter*innen
+Sehr geehrte Handwerker	Sehr geehrte Handwerker_innen, Sehr geehrte Handwerker*innen
+Sehr geehrte Maurer	Sehr geehrte Maurer_innen, Sehr geehrte Maurer*innen
+Sehr geehrte Führer	Sehr geehrte Führer_innen, Sehr geehrte Führer*innen
+Sehr geehrte Vertreter	Sehr geehrte Vertreter_innen, Sehr geehrte Vertreter*innen
+Sehr geehrte Vertriebler	Sehr geehrte Vertriebler_innen, Sehr geehrte Vertriebler*innen
+Sehr geehrte Förster	Sehr geehrte Förster_innen, Sehr geehrte Förster*innen
+Sehr geehrte Jäger	Sehr geehrte Jäger_innen, Sehr geehrte Jäger*innen
+Sehr geehrte Minister	Sehr geehrte Minister_innen, Sehr geehrte Minister*innen
+Sehr geehrte Fleischer	Sehr geehrte Fleischer_innen, Sehr geehrte Fleischer*innen
+Sehr geehrte Bäcker	Sehr geehrte Bäcker_innen, Sehr geehrte Bäcker*innen
+Sehr geehrte Schriftsteller	Sehr geehrte Schriftsteller_innen, Sehr geehrte Schriftsteller*innen
+Sehr geehrte Tischler	Sehr geehrte Tischler_innen, Sehr geehrte Tischler*innen
+Sehr geehrte Meister	Sehr geehrte Meister_innen, Sehr geehrte Meister*innen
+Sehr geehrte Reporter	Sehr geehrte Reporter_innen, Sehr geehrte Reporter*innen
+Sehr geehrte Gläser	Sehr geehrte Gläser_innen, Sehr geehrte Gläser*innen
+Sehr geehrte Wächter	Sehr geehrte Wächter_innen, Sehr geehrte Wächter*innen
+Sehr geehrte Trinker	Sehr geehrte Trinker_innen, Sehr geehrte Trinker*innen
+Sehr geehrte Träger	Sehr geehrte Träger_innen, Sehr geehrte Träger*innen
+Sehr geehrte Geldgeber	Sehr geehrte Geldgeber_innen, Sehr geehrte Geldgeber*innen
+Sehr geehrte Kontoinhaber	Sehr geehrte Kontoinhaber_innen, Sehr geehrte Kontoinhaber*innen
+Sehr geehrte Antragssteller	Sehr geehrte Antragssteller_innen, Sehr geehrte Antragssteller*innen
+Sehr geehrte Inhaber	Sehr geehrte Inhaber_innen, Sehr geehrte Inhaber*innen
+Sehr geehrte Barkeeper	Sehr geehrte Barkeeper_innen, Sehr geehrte Barkeeper*innen
+Sehr geehrte Kellner	Sehr geehrte Kellner_innen, Sehr geehrte Kellner*innen
+Sehr geehrte Leser	Sehr geehrte Leser_innen, Sehr geehrte Leser*innen
+Sehr geehrte Zuhörer	Sehr geehrte Zuhörer_innen, Sehr geehrte Zuhörer*innen
+Sehr geehrte Zuschauer	Sehr geehrte Zuschauer_innen, Sehr geehrte Zuschauer*innen
+Sehr geehrte YouTuber	Sehr geehrte YouTuber_innen, Sehr geehrte YouTuber*innen
+Sehr geehrte Gamer	Sehr geehrte Gamer_innen, Sehr geehrte Gamer*innen
+Sehr geehrte Netzwerker	Sehr geehrte Netzwerker_innen, Sehr geehrte Netzwerker*innen
+Sehr geehrte Spieler	Sehr geehrte Spieler_innen, Sehr geehrte Spieler*innen
+Sehr geehrte Speaker	Sehr geehrte Speaker_innen, Sehr geehrte Speaker*innen
+Sehr geehrte Redner	Sehr geehrte Redner_innen, Sehr geehrte Redner*innen
+Sehr geehrte Unterstützer	Sehr geehrte Unterstützer_innen, Sehr geehrte Unterstützer*innen
+Sehr geehrte Trainer	Sehr geehrte Trainer_innen, Sehr geehrte Trainer*innen
+Sehr geehrte Schauspieler	Sehr geehrte Schauspieler_innen, Sehr geehrte Schauspieler*innen
+
+alle Bürger	alle Bürger_innen, alle Bürger*innen
+alle Politiker	alle Politiker_innen, alle Politiker*innen
+alle Mörder	alle Mörder_innen, alle Mörder*innen
+alle Täter	alle Täter_innen, alle Täter*innen
+alle Mitarbeiter	alle Mitarbeiter_innen, alle Mitarbeiter*innen
+alle Schüler	alle Schüler_innen, alle Schüler*innen
+alle Designer	alle Designer_innen, alle Designer*innen
+alle Programmierer	alle Programmierer_innen, alle Programmierer*innen
+alle Entwickler	alle Entwickler_innen, alle Entwickler*innen
+alle Techniker	alle Techniker_innen, alle Techniker*innen
+alle Informatiker	alle Informatiker_innen, alle Informatiker*innen
+alle Geschäftsführer	alle Geschäftsführer_innen, alle Geschäftsführer*innen
+alle Gründer	alle Gründer_innen, alle Gründer*innen
+alle Erzieher	alle Erzieher_innen, alle Erzieher*innen
+alle Fahrer	alle Fahrer_innen, alle Fahrer*innen
+alle Bauarbeiter	alle Bauarbeiter_innen, alle Bauarbeiter*innen
+alle Klemptner	alle Klemptner_innen, alle Klemptner*innen
+alle Musiker	alle Musiker_innen, alle Musiker*innen
+alle Nutzer	alle Nutzer_innen, alle Nutzer*innen
+alle User	alle User_innen, alle User*innen
+alle Developer	alle Developer_innen, alle Developer*innen
+alle Leiter	alle Leiter_innen, alle Leiter*innen
+alle Schulleiter	alle Schulleiter_innen, alle Schulleiter*innen
+alle Wähler	alle Wähler_innen, alle Wähler*innen
+alle Pfleger	alle Pfleger_innen, alle Pfleger*innen
+alle Ritter	alle Ritter_innen, alle Ritter*innen
+alle Sanitäter	alle Sanitäter_innen, alle Sanitäter*innen
+alle Sprecher	alle Sprecher_innen, alle Sprecher*innen
+alle Manager	alle Manager_innen, alle Manager*innen
+alle Sänger	alle Sänger_innen, alle Sänger*innen
+alle Küntler	alle Küntler_innen, alle Küntler*innen
+alle Berater	alle Berater_innen, alle Berater*innen
+alle Arbeiter	alle Arbeiter_innen, alle Arbeiter*innen
+alle Sexarbeiter	alle Sexarbeiter_innen, alle Sexarbeiter*innen
+alle Apotheker	alle Apotheker_innen, alle Apotheker*innen
+alle Kindergärtner	alle Kindergärtner_innen, alle Kindergärtner*innen
+alle Wissenschaftler	alle Wissenschaftler_innen, alle Wissenschaftler*innen
+alle Forscher	alle Forscher_innen, alle Forscher*innen
+alle Räuber	alle Räuber_innen, alle Räuber*innen
+alle Vergewaltiger	alle Vergewaltiger_innen, alle Vergewaltiger*innen
+alle Verbrecher	alle Verbrecher_innen, alle Verbrecher*innen
+alle Richter	alle Richter_innen, alle Richter*innen
+alle Sportler	alle Sportler_innen, alle Sportler*innen
+alle Gärtner	alle Gärtner_innen, alle Gärtner*innen
+alle Retter	alle Retter_innen, alle Retter*innen
+alle Handwerker	alle Handwerker_innen, alle Handwerker*innen
+alle Maurer	alle Maurer_innen, alle Maurer*innen
+alle Führer	alle Führer_innen, alle Führer*innen
+alle Vertreter	alle Vertreter_innen, alle Vertreter*innen
+alle Vertriebler	alle Vertriebler_innen, alle Vertriebler*innen
+alle Förster	alle Förster_innen, alle Förster*innen
+alle Jäger	alle Jäger_innen, alle Jäger*innen
+alle Minister	alle Minister_innen, alle Minister*innen
+alle Fleischer	alle Fleischer_innen, alle Fleischer*innen
+alle Bäcker	alle Bäcker_innen, alle Bäcker*innen
+alle Schriftsteller	alle Schriftsteller_innen, alle Schriftsteller*innen
+alle Tischler	alle Tischler_innen, alle Tischler*innen
+alle Meister	alle Meister_innen, alle Meister*innen
+alle Reporter	alle Reporter_innen, alle Reporter*innen
+alle Gläser	alle Gläser_innen, alle Gläser*innen
+alle Wächter	alle Wächter_innen, alle Wächter*innen
+alle Trinker	alle Trinker_innen, alle Trinker*innen
+alle Träger	alle Träger_innen, alle Träger*innen
+alle Geldgeber	alle Geldgeber_innen, alle Geldgeber*innen
+alle Kontoinhaber	alle Kontoinhaber_innen, alle Kontoinhaber*innen
+alle Antragssteller	alle Antragssteller_innen, alle Antragssteller*innen
+alle Inhaber	alle Inhaber_innen, alle Inhaber*innen
+alle Barkeeper	alle Barkeeper_innen, alle Barkeeper*innen
+alle Kellner	alle Kellner_innen, alle Kellner*innen
+alle Leser	alle Leser_innen, alle Leser*innen
+alle Zuhörer	alle Zuhörer_innen, alle Zuhörer*innen
+alle Zuschauer	alle Zuschauer_innen, alle Zuschauer*innen
+alle YouTuber	alle YouTuber_innen, alle YouTuber*innen
+alle Gamer	alle Gamer_innen, alle Gamer*innen
+alle Netzwerker	alle Netzwerker_innen, alle Netzwerker*innen
+alle Spieler	alle Spieler_innen, alle Spieler*innen
+alle Speaker	alle Speaker_innen, alle Speaker*innen
+alle Redner	alle Redner_innen, alle Redner*innen
+alle Unterstützer	alle Unterstützer_innen, alle Unterstützer*innen
+alle Trainer	alle Trainer_innen, alle Trainer*innen
+alle Schauspieler	alle Schauspieler_innen, alle Schauspieler*innen
