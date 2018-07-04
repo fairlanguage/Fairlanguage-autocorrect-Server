@@ -234,7 +234,12 @@ sub filterSuggestion
    $error = $1;
    ($rule, $text, $path, $context, $next, @tagsp, @tagsn) = $1;
 
-   if ($rule["word"] eq "")
+ if ($rule["style"] eq "unfair")
+   {
+      $error[4] = suggestions(split(', ', $rule["word"]), @tagsn);
+   }
+
+else if ($rule["word"] eq "")
    {
       local('$word');
       foreach $word (split('\s+', $path))
