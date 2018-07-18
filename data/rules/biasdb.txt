@@ -2,7 +2,30 @@ Feuerwehrmann	Feuerwehrkraft
 Feuerwehrmänner	Feuerwehrkräfte
 Studenten	Studierenden, Student_innen, Student*innen
 Liebe Damen und Herren	Liebe Leute
-
+die Lehrer	die Lehrkräfte, die Lehrer_innen, die Lehrer*innen
+Lehrer	Lehrkraft
+Patient	Patient_in
+Patienten	Patient_innen, Patient*innen, Menschen in Behandlung
+Die Patienten	Die Patient_innen, Die Patient*innen, Die Menschen in Behandlung
+die Patienten	die Patient_innen, die Patient*innen, die Menschen in Behandlung
+Liebe Patienten	Liebe Patient_innen, Liebe Patient*innen
+alle Patienten	alle Patient_innen, alle Patient*innen, alle Menschen in Behandlung
+diese Patienten	diese Patient_innen, diese Patient*innen
+solche Patienten	solche Patient_innen, solche Patient*innen
+Ärzte	Ärzt_innen, Ärzt*innen, Medizinier_innen, Mediziner*innen
+Liebe Ärzte	Liebe Ärzt_innen, Liebe Ärzt*innen, Liebe Medizinier_innen, Liebe Medizinier*innen
+alle Ärzte	alle Ärzt_innen, alle Ärzt*innen, alle Medizinier_innen, alle Medizinier*innen
+die Ärzte	die Ärzt_innen, die Ärzt*innen, die Medizinier_innen, die Medizinier*innen
+Die Ärzte	Die Ärzt_innen, Die Ärzt*innen, Die Medizinier_innen, Die Medizinier*innen
+Chefärzte	Chefärzt_innen, Chefärzt*innen, leitenden Medizinier_innen, leitenden Mediziner*innen
+Liebe Chefärzte	Liebe Chefärzt_innen, Liebe Chefärzt*innen, Liebe leitenden Medizinier_innen, Liebe leitenden Medizinier*innen
+alle Chefärzte	alle Chefärzt_innen, alle Chefärzt*innen, alle leitenden Medizinier_innen, alle leitenden Medizinier*innen
+die Chefärzte	die Chefärzt_innen, die Chefärzt*innen, die leitenden Medizinier_innen, die leitenden Medizinier*innen
+Die Chefärzte	Die Chefärzt_innen, Die Chefärzt*innen, Die leitenden Medizinier_innen, Die leitenden Medizinier*innen
+Chefarztbehandlung	Behandlung durch die Stationsleitung
+Krankenschwester 	Pflegekraft, Krankenpfleger_in, Krankenpfleger*in
+Krankenschwestern	Pflegekräfte, Krankenpflegende, Krankenpfleger_innen, Krankenpfleger*innen
+Schauspieler	Schauspieler_innen, Schauspieler*innen
 die Bürger	die Bürger_innen, die Bürger*innen
 die Politiker	die Politiker_innen, die Politiker*innen
 die Mörder	die Mörder_innen, die Mörder*innen
