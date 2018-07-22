@@ -1,7 +1,7 @@
 import org.dashnine.preditor.* from: lib/spellutils.jar;
 use(^SpellingUtils);
 
-if (getFileName($__SCRIPT__) eq 'rules.sl') 
+if (getFileName($__SCRIPT__) eq 'rules.sl')
 {
    # misc junk
    include("lib/dictionary.sl");
@@ -37,11 +37,11 @@ sub loadRules
    local('$handle $text $rule %r @r $v $key $value $option');
 
    $handle = openf($2);
-   while $text (readln($handle))    
+   while $text (readln($handle))
    {
       if ($text ne "" && "#*" !iswm $text)
       {
-         $rule = split('\:\:', $text)[0];       
+         $rule = split('\:\:', $text)[0];
          %r    = copy($3);
 
          foreach $v (sublist(split('\:\:', $text), 1))
@@ -52,7 +52,7 @@ sub loadRules
 
          @r = split(' ', $rule);
          @r = map(
-         {          
+         {
             if ('*/*' iswm $1)
             {
                return split('/', $1);
@@ -61,8 +61,8 @@ sub loadRules
             {
                return @(invoke($1), '.*');
             }
-            return @($1, '.*');               
-         }, @r); 
+            return @($1, '.*');
+         }, @r);
 
          if (@r[0][0] eq "")
          {
@@ -72,7 +72,7 @@ sub loadRules
          {
             foreach $option (split('\|', @r[0][0]))
             {
-               addPath($1, %r, concat(@(@($option, @r[0][1])), sublist(@r, 1)));  
+               addPath($1, %r, concat(@(@($option, @r[0][1])), sublist(@r, 1)));
             }
          }
          else
@@ -80,10 +80,10 @@ sub loadRules
             addPath($1, %r, @r);
          }
       }
-   }       
+   }
 
    return $1;
-}      
+}
 
 #
 # passive voice tense rules.
@@ -94,7 +94,7 @@ sub tense
    return %(recommendation => { return "Revise <em> $+ $2 $+ </em> with active voice"; },
             view => "view/rules/empty.slp",
             rule => "Passive voice",
-            description => "Active voice makes it clear who is doing what.  In an active sentence, the person that is acting is the subject.  Passive sentences obscure or omit the sentence 
+            description => "Active voice makes it clear who is doing what.  In an active sentence, the person that is acting is the subject.  Passive sentences obscure or omit the sentence
 subject.<br><br>Use passive voice when the sentence object is more important than the subject.  The active voice is generally easier to read.
 <br>
 <br><b>Examples</b> (<i><b>subject</b></i>, <u>object</u>)
@@ -135,7 +135,7 @@ sub uncountable
    return 'accommodation|advice|access|baggage|bread|equipment|garbage|luggage|money|cattle|knowledge|sand|furniture|meat|food|news|pasta|progress|research|water|freedom|maturity|intelligence|travel|pollution|traffic';
 }
 
-sub modal_verbs 
+sub modal_verbs
 {
    return "can|could|may|must|should|will|would|can't|couldn't|mustn't|shouldn't|won't|wouldn't";
 }
@@ -192,7 +192,7 @@ sub determiner_wanted
 
 sub irregular_verb
 {
-   # a regex to check if a word is a present past with a different past participle   
+   # a regex to check if a word is a present past with a different past participle
    return 'abide|abode|alight|arise|arose|ate|awake|awoke|be|bear|became|befall|befell|began|beget|begin|begot|behold|bend|beseech|betake|bethink|betook|bind|bit|bite|bleed|blew|blow|bore|break|breed|bring|broke|browbeat|build|burn|buy|came|catch|chide|choose|chose|clap|cling|clothe|creep|dare|daydream|deal|did|dig|disprove|dive|do|dove|drank|draw|dream|drew|drink|drive|drove|dwell|eat|fall|feed|feel|fell|fight|find|flee|flew|fling|fly|forbade|forbear|forbid|forbore|forego|foresaw|foresee|foretell|forewent|forgave|forget|forgive|forgot|forsake|forsook|forswear|freeze|frostbite|froze|gainsay|gave|get|gild|give|go|grew|grind|grow|hang|have|hear|heave|hew|hewed|hid|hide|hold|inbreed|inlay|keep|kneel|knew|know|lade|landslide|lay|lead|lean|leap|learn|leave|lend|lie|light|lose|make|mean|meet|mislead|misspell|mistake|mistook|misunderstand|mow|outdid|outdo|outgrew|outgrow|outlay|outran|outride|outshine|overbore|overcame|overdo|overeat|overhang|overhear|overlay|overlay|overleap|overlie|overran|override|oversaw|oversee|overtake|overthrew|overthrow|overtook|overwrite|partake|partook|pay|plead|prove|ran|rang|rebuild|redid|redo|reeve|refit|regrow|relay|relight|remake|rend|repay|retake|retell|rethink|retook|rewind|rewrite|rewrote|ride|ring|rise|rived|rode|rose|sang|sank|saw|saw|say|see|seek|sell|send|sew|shake|shave|shear|sheared|shine|shoe|shook|shoot|show|showed|shrank|shrink|sing|sink|sit|slay|sleep|slide|sling|slink|smell|smite|sneak|sow|sowed|speak|speed|spell|spend|spill|spin|spoil|spoke|sprang|spring|stand|stank|stave|steal|stick|sting|stink|stole|strew|strewed|stride|strike|string|strip|strive|strode|strove|sunburn|swam|swear|sweep|swell|swelled|swim|swing|swore|take|teach|tear|tell|think|threw|thrive|throve|throw|took|tore|tread|troubleshoot|typewrite|unbend|unbind|undergo|underlay|underlay|underlie|undersell|understand|undertake|undertook|underwent|undid|undo|unlearn|unmake|unsay|unwind|uphold|vex|wake|was|waylay|wear|weave|wed|weep|went|whet|win|wind|withdraw|withdrew|withhold|withstand|woke|wore|wove|wring|write|wrote';
 #   return 'abide|abode|alight|arise|arose|ate|awake|awoke|backbit|backbite|backslid|backslide|be|bear|became|befall|befell|began|beget|begin|begot|behold|bend|bereave|beseech|bestrew|betake|bethink|betook|bind|bit|bite|bleed|blew|blow|bore|break|breed|bring|broke|browbeat|build|burn|buy|came|catch|chide|choose|chose|clap|cling|clothe|colorbreed|creep|crossbreed|dare|daydream|deal|did|dig|disprove|dive|do|dove|drank|draw|dream|drew|drink|drive|drove|dwell|eat|enwind|fall|feed|feel|fell|fight|find|flee|flew|fling|fly|forbade|forbear|forbid|forbore|fordid|fordo|forego|foreknew|foreknow|foreran|foresaw|foresee|foreshow|foreshowed|forespeak|forespoke|foretell|forewent|forgave|forget|forgive|forgot|forsake|forsook|forswear|forswore|freeze|frostbit|frostbite|froze|gainsay|gave|get|gild|give|go|grew|grind|grow|hagride|hagrode|halterbreak|halterbroke|hamstring|hand-feed|handwrite|handwrote|hang|have|hear|heave|hew|hewed|hid|hide|hold|inbreed|inlay|interbreed|interlay|interweave|interwind|interwove|inweave|inwove|jerry-build|keep|kneel|knew|know|lade|laded|landslide|lay|lead|lean|leap|learn|leave|lend|lie|light|lose|make|mean|meet|misbecame|misdeal|misdid|misdo|mishear|mislay|mislead|mislearn|missay|missend|misspeak|misspell|misspend|misspoke|misswear|misswore|mistake|misteach|mistell|misthink|mistook|misunderstand|miswear|miswore|miswrite|miswrote|mow|outbreed|outdid|outdo|outdrank|outdraw|outdrew|outdrink|outdrive|outdrove|outfight|outflew|outfly|outgrew|outgrow|outlay|outleap|outlie|outran|outride|outrode|outsang|outsaw|outsee|outsell|outshine|outshoot|outsing|outsit|outsleep|outsmell|outspeak|outspeed|outspend|outspin|outspoke|outsprang|outspring|outstand|outswam|outswear|outswim|outswore|outtell|outthink|outthrew|outthrow|outwear|outwind|outwore|outwrite|outwrote|overate|overbear|overbore|overbreed|overbuild|overbuy|overcame|overdid|overdo|overdrank|overdraw|overdrew|overdrink|overeat|overfeed|overhang|overhear|overlay|overlay|overleap|overlie|overpay|overran|override|overrode|oversaw|oversee|oversell|oversew|oversewed|overshoot|oversleep|oversow|oversowed|overspeak|overspend|overspill|overspin|overspoke|oversprang|overspring|overstand|overstrew|overstrewed|overstride|overstrike|overstrode|overtake|overthink|overthrew|overthrow|overtook|overwear|overwind|overwore|overwrite|overwrote|partake|partook|pay|plead|prebuild|predid|predo|premake|prepay|presell|preshrank|preshrink|prove|quick-freeze|quick-froze|ran|rang|reawake|reawoke|rebind|rebuild|redeal|redid|redo|redraw|redrew|reeve|refit|regrew|regrind|regrow|rehang|rehear|reknit|relay|relearn|relight|remake|rend|repay|reran|resell|resend|resew|resewed|retake|reteach|retear|retell|rethink|retook|retore|rewake|rewear|reweave|rewin|rewind|rewoke|rewore|rewove|rewrite|rewrote|ride|ring|rise|rive|rived|rode|rose|sang|sank|saw|saw|say|see|seek|self-feed|self-sow|self-sowed|sell|send|sew|shake|shave|shear|sheared|shine|shoe|shook|shoot|show|showed|shrank|shrink|shrive|shrived|sing|sink|sit|skywrite|skywrote|slay|sleep|slide|sling|slink|smell|smite|sneak|sow|sowed|speak|speed|spell|spend|spill|spin|spoil|spoke|spoon-feed|sprang|spring|stall-feed|stand|stank|stave|steal|stick|sting|stink|stole|strew|strewed|stride|strike|string|strip|strive|strode|strove|sunburn|swam|swear|sweep|swell|swelled|swim|swing|swore|take|teach|tear|tell|test-drive|test-drove|test-flew|test-fly|think|threw|thrive|throve|throw|took|tore|tread|troubleshoot|typewrite|typewrote|unbear|unbend|unbind|unbore|unbuild|unclothe|underbuy|underfeed|undergo|underlay|underlay|underlie|underran|undersell|undershoot|underspend|understand|undertake|undertook|underwent|underwrite|underwrote|undid|undo|undraw|undrew|unfreeze|unfroze|unhang|unhid|unhide|unhold|unknit|unlade|unladed|unlay|unlead|unlearn|unmake|unreeve|unsay|unsew|unsewed|unsling|unspin|unstick|unstring|unswear|unswore|unteach|unthink|unweave|unwind|unwove|unwrite|unwrote|uphold|vex|wake|was|waylay|wear|weave|wed|weep|went|whet|win|wind|withdraw|withdrew|withhold|withstand|woke|wore|wove|wring|write|wrote';
 }
@@ -351,8 +351,8 @@ sub loadGrammarRules
    $template = ghomophone(@("it's", "its"));
    $template['recommendation'] = { return "\"" . suggestions2($1["word"], $2) . "\""; };
 
-   loadRules($rules, "data/rules/grammar/its", $template); 
-   loadRules($rules, "data/rules/grammar/its2", $template); 
+   loadRules($rules, "data/rules/grammar/its", $template);
+   loadRules($rules, "data/rules/grammar/its2", $template);
 
    # where vs. were rules
 
@@ -378,13 +378,13 @@ sub loadGrammarRules
    $template['recommendation'] = { return "\"" . suggestions2($1["word"], $2) . "\""; };
 
    loadRules($rules, "data/rules/grammar/too", $template);
-   
+
    # whose vs. who's
    $template = ghomophone(@("who's", "whose"));
    $template['recommendation'] = { return "\"" . suggestions2($1["word"], $2) . "\""; };
 
    loadRules($rules, "data/rules/grammar/whose", $template);
-   
+
    # there vs. their
    $template = ghomophone(@("their", "there"));
    $template['recommendation'] = { return "\"" . suggestions2($1["word"], $2) . "\""; };
@@ -398,7 +398,7 @@ sub loadGrammarRules
    loadRules($rules, "data/rules/grammar/confused", $template);
 
    # contracted form of not
-   loadRules($rules, "data/rules/grammar/contractedformnot", 
+   loadRules($rules, "data/rules/grammar/contractedformnot",
      grammar("Redundant not",
      "",
      "The contraction used here expands to not at the end.  This is redundant when combined with another not.")
@@ -409,14 +409,14 @@ sub loadGrammarRules
 
    # repeated contractions
    loadRules($rules, "data/rules/grammar/repeats", %(style => "green", rule => "Redundant contraction", recommendation => { return "\"" . suggestions2($1["word"], $2) . "\""; }, category => "Grammar", info => "none", view => "view/rules/empty.slp"));
-  
+
    # personal pronoun lowercase
    loadRules($rules, "data/rules/grammar/personal_pronoun_case",
      grammar("Make I uppercase",
       "",
       "The personal pronoun I is always uppercase. Contractions that use 'I' also require an upper-case I since they expand to two words e.g., I have and I will.")
    );
-  
+
    # some misc rules
    loadRules($rules, "data/rules/grammar/misc", %(style => "green", rule => "Revise...", recommendation => { return "\"" . suggestions2($1["word"], $2) . "\""; }, category => "Grammar", info => "none", view => "view/rules/empty.slp"));
 
@@ -432,7 +432,7 @@ sub loadGrammarRules
 
    # less vs. fewer
    $template = grammar("Less vs. Fewer", "", "Use the word <b>fewer</b> with countable nouns. Use the word <b>less</b> with uncountable nouns. <p>A countable noun is a noun that you can count. An uncountable noun is a noun that you can not count.</p><p>For example, it makes sense to say I have three dollars. Three money makes no sense. The noun dollars is countable. The noun money is not.</p>");
-   loadRules($rules, "data/rules/grammar/count", $template); 
+   loadRules($rules, "data/rules/grammar/count", $template);
 
    # auxiliary verb agreement
 
@@ -572,7 +572,7 @@ sub loadHyphenRules
    local('$stream $enum $entry $name');
 
    $handle = openf("models/dictionary.txt");
-  
+
    while $name (readln($handle))
    {
       if ("*-" !iswm $name && "-*" !iswm $name && "-" isin $name)
@@ -591,7 +591,7 @@ sub loadHyphenRules
             }
          }
       }
-   }   
+   }
 
    # add some nifty hyphenating rules
    loadRules($rules, "data/rules/hyphens.txt", hyphenate(""));
@@ -644,10 +644,10 @@ sub redundant_header
       $suggestion = replaceAt($suggestion, '<s><u>'.$item.'</u></s>', lindexOf($suggestion, $item), strlen($item));
    }
 
-   return "Revise <em> $+ $suggestion $+ </em>"; 
+   return "Revise <em> $+ $suggestion $+ </em>";
 }
 
-sub applyChanges 
+sub applyChanges
 {
    local('$remove $c');
    $c = $1;
@@ -679,7 +679,7 @@ sub loadRedundantRules
    {
       ($expression, $suggestion) = split('\t+', $text);
       addPath($rules, redundant($suggestion, $expression), split('\s+', $expression));
-   }   
+   }
 
    $template = redundant("");
    $template['recommendation'] = tryThisSuggestion();
@@ -689,14 +689,14 @@ sub loadRedundantRules
 
 #
 # bias rules (non-discrimination, gender neutral language)
-# 
+#
 
 sub bias
 {
    return %(recommendation => { return " $2 "; },
             view => "view/rules/bias.slp",
             rule => "Faire Sprache",
-            description => "Manche Formulierungen können schnell geschlechtliche Stereotype und weitere gesellschaftliche Ausschlüsse aufrecht erhalten und verstärken. Mit fairer Sprache bringst du allen Menschen Respekt entgegen und machst diese sichtbar. Dein Beitrag:",
+            description => "Das kann faire Sprache: Sprache verstärkt häufig Stereotype, zum Beispiel solche die Geschlechter betreffen. Mit fairer Sprache bringst du allen Menschen Respekt entgegen - unabhängig von ihrem Geschlecht und anderen Identitäten und Positionen in der Gesellschaft.",
             style => 'unfair',
             word => $1,
             category => 'Bias');
@@ -714,7 +714,7 @@ sub loadBiasRules
       [$expression trim];
       [$suggestion trim];
       addPath($rules, bias($suggestion), split('\s+', $expression));
-   }   
+   }
 }
 
 #
@@ -726,7 +726,7 @@ sub cliche
    return %(recommendation => { return "Avoid \"<em> $+ $2 $+ </em>\""; },
             view => "view/rules/empty.slp",
             rule => "Cliches",
-            description => 'Clich&eacute;s are phrases used so much they lose their original power.  Try revising the meaning of this phrase using your own words.  It will make a stronger impact on your reader.', 
+            description => 'Clich&eacute;s are phrases used so much they lose their original power.  Try revising the meaning of this phrase using your own words.  It will make a stronger impact on your reader.',
             style => 'yellow',
             category => 'Cliche');
 }
@@ -750,7 +750,7 @@ sub loadClicheRules
    while $text (readln($handle))
    {
       addPath($voice, cliche($text), split('\s+', $text));
-   }   
+   }
 
    $handle = openf("data/rules/avoiddb.txt");
    while $text (readln($handle))
@@ -890,4 +890,3 @@ if (getFileName($__SCRIPT__) eq "rules.sl")
    println("--- Voice  rules:    " . countRules($voice));
    println("Loaded $rcount rules... wheee");
 }
-
