@@ -34,7 +34,7 @@
           }
 
 #         creates the url of the contents that are behind the "moreinfo"/"explain.."- item of pop-up menu. First version seems to be very static and can show wrong info in cases, where there is multiple errors. $INFOURL is defined in site.sl  - FairlanguageFix 
-#           println('<url>http://127.0.0.1:1049/info.slp?text='.[java.net.URLEncoder encode: $1].'</url>');    
+#           println('<url>https://fairlanguage.dev-star.de/info.slp?text='.[java.net.URLEncoder encode: $1].'</url>');    
             println('<url>' . $INFOURL . '/info.slp?text='.[java.net.URLEncoder encode: $1].'&amp;tags='.[java.net.URLEncoder encode: join('/', map({ return $1[1]; }, @tags))].'&amp;engine='.$6.'</url>'); 
        }
    ?>

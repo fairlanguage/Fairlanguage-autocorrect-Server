@@ -19,8 +19,8 @@ if ($lang ne "" && -exists "lang/ $+ $lang $+ /load.sl")
 
 # this variable defines the host used to reference explanations
 # Changed the url to localhost / for production change to https is required!!!  - FairlanguageFix
-$INFOURL = 'http://' . iff($lang ne "", "$lang $+ .") . 
-'127.0.0.1:1049';
+$INFOURL = 'https://' . iff($lang ne "", "$lang $+ .") . 
+'fairlanguage.dev-star.de';
 
 sub data
 {
