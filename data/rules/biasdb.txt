@@ -225,7 +225,7 @@ die Schriftsteller	die Schriftsteller_innen, die Schriftsteller*innen
 die Tischler	die Tischler_innen, die Tischler*innen
 die Meister	die Meister_innen, die Meister*innen
 die Reporter	die Reporter_innen, die Reporter*innen
-die Gläser	die Gläser_innen, die Gläser*innen
+die Glaser	die Glaser_innen, die Glaser*innen
 die Wächter	die Wächter_innen, die Wächter*innen
 die Trinker	die Trinker_innen, die Trinker*innen
 die Träger	die Träger_innen, die Träger*innen
@@ -308,7 +308,7 @@ Liebe Schriftsteller	Liebe Schriftsteller_innen, Liebe Schriftsteller*innen
 Liebe Tischler	Liebe Tischler_innen, Liebe Tischler*innen
 Liebe Meister	Liebe Meister_innen, Liebe Meister*innen
 Liebe Reporter	Liebe Reporter_innen, Liebe Reporter*innen
-Liebe Gläser	Liebe Gläser_innen, Liebe Gläser*innen
+Liebe Glaser	Liebe Glaser_innen, Liebe Glaser*innen
 Liebe Wächter	Liebe Wächter_innen, Liebe Wächter*innen
 Liebe Trinker	Liebe Trinker_innen, Liebe Trinker*innen
 Liebe Träger	Liebe Träger_innen, Liebe Träger*innen
@@ -391,7 +391,7 @@ Sehr geehrte Schriftsteller	Sehr geehrte Schriftsteller_innen, Sehr geehrte Schr
 Sehr geehrte Tischler	Sehr geehrte Tischler_innen, Sehr geehrte Tischler*innen
 Sehr geehrte Meister	Sehr geehrte Meister_innen, Sehr geehrte Meister*innen
 Sehr geehrte Reporter	Sehr geehrte Reporter_innen, Sehr geehrte Reporter*innen
-Sehr geehrte Gläser	Sehr geehrte Gläser_innen, Sehr geehrte Gläser*innen
+Sehr geehrte Glaser	Sehr geehrte Glaser_innen, Sehr geehrte Glaser*innen
 Sehr geehrte Wächter	Sehr geehrte Wächter_innen, Sehr geehrte Wächter*innen
 Sehr geehrte Trinker	Sehr geehrte Trinker_innen, Sehr geehrte Trinker*innen
 Sehr geehrte Träger	Sehr geehrte Träger_innen, Sehr geehrte Träger*innen
@@ -474,7 +474,7 @@ alle Schriftsteller	alle Schriftsteller_innen, alle Schriftsteller*innen
 alle Tischler	alle Tischler_innen, alle Tischler*innen
 alle Meister	alle Meister_innen, alle Meister*innen
 alle Reporter	alle Reporter_innen, alle Reporter*innen
-alle Gläser	alle Gläser_innen, alle Gläser*innen
+alle Glaser	alle Glaser_innen, alle Glaser*innen
 alle Wächter	alle Wächter_innen, alle Wächter*innen
 alle Trinker	alle Trinker_innen, alle Trinker*innen
 alle Träger	alle Träger_innen, alle Träger*innen
