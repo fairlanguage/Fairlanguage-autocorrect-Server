@@ -1,10 +1,150 @@
+mankind	people, human beings, humanity
+freshman	first-year student
+man-made	machine-made, synthetic, artificial
+the common man	the average person
+chairman	chair, chairperson, coordinator, head
+mailman	mail carrier, letter carrier, postal worker
+policeman	police officer
+steward	flight attendant
+stewardess	flight attendant
+actress	actor
+congressman	legislator, congressional representative
+Dear Sir or Madam	To Whom it May Concernactive
+
+Sprachwissenschaftler	Sprachwissenschaftler_innen, Sprachwissenschaftler*innen
+Student	Studierende, Student_innen, Student*innen
+Chef	Führungskraft, Chef_in, Chef*in
+Chefs	Führungskräfte, Chef_innen, Chef*innne
+Piloten	Menschen die das Flugzeuf fliegen, Pilot_innen, Pilot*innen
+Bauern	Landwirt_innen, Landwirt*innen, Bäuer_innen, Bäuer*innen
+Professoren	Professor_innen, Professor*innen
+Polizisten	Polizist_innen, Polizist*innen
+Autoren	Autor_innen, Autor*innen
+Psychologen	Psycholog_innen, Psycholog*innen
+Journalisten	Journalist_innen, Journalist*innen
+Moderatoren	Moderator_innen, Moderator*innen
+Pianisten	Pianist_innen, Pianist*innen
+Gitarristen	Gitarrist_innen, Gitarrist*innen
+Direktoren	Diktator_innen, Diktator*innen
+Köche	Menschen die kochen, Köch_innen, Köch*innen
+Matrosen	Menschen die zur See fahren, Menschen die auf einem Schiff arbeiten, Matros_innen, Matros*innen
+Kapitäne	Kapitän_innen, Kapitän*innen
+Kommissare	Kommissar_innen, Kommissar*innen
+Ärzte	Mediziner_innen, Mediziner*innen, Ärzt_innen, Ärzt*innen
+Doktoren	Doktor_innen, Doktor*innen
+Astronauten	Astronaut_innen, Astronaut*innen
+Piraten	Pirat_innen, Pirat*innen
+Helden	Held_innen, Held*innen
+Held	Held_in, Held*in
+Soldaten	Soldat_innen, Soldat*innen
+Sekretäre	Sekretär_innen, Sekretär*innen
+Sekretärin	Sekretär_in, Sekretär*in
+Sekretärinnen	Sekretär_innen, Sekretär*innen
+Anwälte	Anwält_innen, Anwält*innen
+Athleten	Athlet_innen, Athlet*innen
+Bosse	Führungskräfte
+Theologen	Theolog_innen, Theolog*innen
+Spione	Spion_innen, Spion*innen
+Terroristen	Terrorist_innen, Terrorist*innen
+Stadträte	Stadträt_innen, Stadträdt*innen
+Senatoren	Senator_innen, Senator*innen
+Sklaven	Sklav_innen, Sklav*innen
+Investor	Investor_innen, Investor*innen
+Kunden	Menschen die etwas kaufen, Kund_innen, Kund*innen
+Praktikanten	Praktikant_innen, Praktikant*innen
+Teilnehmer	Teilnehmende, Teilnehmer_innen, Teilnehmer*innen
+Mentoren	Mentor_innen, Mentor*innen
 Feuerwehrmann	Feuerwehrkraft
 Feuerwehrmänner	Feuerwehrkräfte
 Studenten	Studierenden, Student_innen, Student*innen
+Bürger	Bürger_innen, Bürger*innen
+Politiker	Politiker_innen, Politiker*innen
+Mörder	Mörder_innen, Mörder*innen
+Täter	Täter_innen, Täter*innen
+Mitarbeiter	Mitarbeiter_innen, Mitarbeiter*innen
+Schüler	Schüler_innen, Schüler*innen
+Designer	Designer_innen, Designer*innen
+Programmierer	Programmierer_innen, Programmierer*innen
+Entwickler	Entwickler_innen, Entwickler*innen
+Techniker	Techniker_innen, Techniker*innen
+Informatiker	Informatiker_innen, Informatiker*innen
+Geschäftsführer	Geschäftsführer_innen, Geschäftsführer*innen
+Gründer	Gründende, Gründer_innen, Gründer*innen
+Erzieher	Erzieher_innen, Erzieher*innen
+Fahrer	Fahrer_innen, Fahrer*innen
+Bauarbeiter	Bauarbeiter_innen, Bauarbeiter*innen
+Klempner	Klempner_innen, Klempner*innen
+Musiker	Musiker_innen, Musiker*innen
+Nutzer	Nutzer_innen, Nutzer*innen
+User	User_innen, User*innen
+Developer	Developer_innen, Developer*innen
+Leiter	Leiter_innen, Leiter*innen
+Schulleiter	Schulleiter_innen, Schulleiter*innen
+Wähler	Wähler_innen, Wähler*innen
+Pfleger	Pfleger_innen, Pfleger*innen
+Ritter	Ritter_innen, Ritter*innen
+Sanitäter	Sanitäter_innen, Sanitäter*innen
+Sprecher	Sprecher_innen, Sprecher*innen
+Manager	Manager_innen, Manager*innen
+Sänger	Sänger_innen, Sänger*innen
+Künstler	Künstler_innen, Künstler*innen
+Berater	Berater_innen, Berater*innen
+Arbeiter	Arbeiter_innen, Arbeiter*innen
+Sexarbeiter	Sexarbeiter_innen, Sexarbeiter*innen
+Apotheker	Apotheker_innen, Apotheker*innen
+Kindergärtner	Kindergärtner_innen, Kindergärtner*innen
+Wissenschaftler	Wissenschaftler_innen, Wissenschaftler*innen
+Forscher	Forscher_innen, Forscher*innen
+Räuber	Räuber_innen, Räuber*innen
+Vergewaltiger	Vergewaltiger_innen, Vergewaltiger*innen
+Verbrecher	Verbrecher_innen, Verbrecher*innen
+Richter	Richter_innen, Richter*innen
+Sportler	Sportler_innen, Sportler*innen
+Gärtner	Gärtner_innen, Gärtner*innen
+Retter	Retter_innen, Retter*innen
+Handwerker	Handwerker_innen, Handwerker*innen
+Maurer	Maurer_innen, Maurer*innen
+Führer	Führer_innen, Führer*innen
+Vertreter	Vertreter_innen, Vertreter*innen
+Vertriebler	Vertriebler_innen, Vertriebler*innen
+Förster	Förster_innen, Förster*innen
+Jäger	Jäger_innen, Jäger*innen
+Minister	Minister_innen, Minister*innen
+Fleischer	Fleischer_innen, Fleischer*innen
+Bäcker	Bäcker_innen, Bäcker*innen
+Schriftsteller	Schriftsteller_innen, Schriftsteller*innen
+Tischler	Tischler_innen, Tischler*innen
+Meister	Meister_innen, Meister*innen
+Reporter	Reporter_innen, Reporter*innen
+Glaser	Glaser_innen, Glaser*innen
+Wächter	Wächter_innen, Wächter*innen
+Trinker	Trinker_innen, Trinker*innen
+Träger	Träger_innen, Träger*innen
+Geldgeber	Geldgeber_innen, Geldgeber*innen
+Kontoinhaber	Kontoinhaber_innen, Kontoinhaber*innen
+Antragssteller	Antragssteller_innen, Antragssteller*innen
+Inhaber	Inhaber_innen, Inhaber*innen
+Barkeeper	Barkeeper_innen, Barkeeper*innen
+Kellner	Kellner_innen, Kellner*innen
+Leser	Leser_innen, Leser*innen
+Zuhörer	Zuhörer_innen, Zuhörer*innen
+Zuschauer	Zuschauer_innen, Zuschauer*innen
+YouTuber	YouTuber_innen, YouTuber*innen
+Gamer	Gamer_innen, Gamer*innen
+Netzwerker	Netzwerker_innen, Netzwerker*innen
+Spieler	Spieler_innen, Spieler*innen
+Speaker	Speaker_innen, Speaker*innen
+Redner	Redner_innen, Redner*innen
+Unterstützer	Unterstützer_innen, Unterstützer*innen
+Trainer	Trainer_innen, Trainer*innen
+Schauspieler	Schauspieler_innen, Schauspieler*innen
+Sehr geehrte Damen und Herren	Sehr geehrtes Publikum, Sehr geehrte Menschen
 Liebe Damen und Herren	Liebe Leute
+
+
 die Lehrer	die Lehrkräfte, die Lehrer_innen, die Lehrer*innen
-Lehrer	Lehrkraft
-Patient	Patient_in
+Lehrer	Lehrkraft, Lehrer_in, Lehrer*in, Lehrkräfte, Lehrer_innen, Lehrer*innen
+Patient	Patient_in, Patient*in
 Patienten	Patient_innen, Patient*innen, Menschen in Behandlung
 Die Patienten	Die Patient_innen, Die Patient*innen, Die Menschen in Behandlung
 die Patienten	die Patient_innen, die Patient*innen, die Menschen in Behandlung
@@ -121,7 +261,7 @@ Liebe Entwickler	Liebe Entwickler_innen, Liebe Entwickler*innen
 Liebe Techniker	Liebe Techniker_innen, Liebe Techniker*innen
 Liebe Informatiker	Liebe Informatiker_innen, Liebe Informatiker*innen
 Liebe Geschäftsführer	Liebe Geschäftsführer_innen, Liebe Geschäftsführer*innen
-Liebe Gründer	Liebe Gründer_innen, Liebe Gründer*innen
+Liebe Gründer	Liebe Gründenden, Liebe Gründer_innen, Liebe Gründer*innen
 Liebe Erzieher	Liebe Erzieher_innen, Liebe Erzieher*innen
 Liebe Fahrer	Liebe Fahrer_innen, Liebe Fahrer*innen
 Liebe Bauarbeiter	Liebe Bauarbeiter_innen, Liebe Bauarbeiter*innen
@@ -190,6 +330,7 @@ Liebe Redner	Liebe Redner_innen, Liebe Redner*innen
 Liebe Unterstützer	Liebe Unterstützer_innen, Liebe Unterstützer*innen
 Liebe Trainer	Liebe Trainer_innen, Liebe Trainer*innen
 Liebe Schauspieler	Liebe Schauspieler_innen, Liebe Schauspieler*innen
+
 
 Sehr geehrte Bürger	Sehr geehrte Bürger_innen, Sehr geehrte Bürger*innen
 Sehr geehrte Politiker	Sehr geehrte Politiker_innen, Sehr geehrte Politiker*innen
@@ -272,6 +413,7 @@ Sehr geehrte Redner	Sehr geehrte Redner_innen, Sehr geehrte Redner*innen
 Sehr geehrte Unterstützer	Sehr geehrte Unterstützer_innen, Sehr geehrte Unterstützer*innen
 Sehr geehrte Trainer	Sehr geehrte Trainer_innen, Sehr geehrte Trainer*innen
 Sehr geehrte Schauspieler	Sehr geehrte Schauspieler_innen, Sehr geehrte Schauspieler*innen
+
 
 alle Bürger	alle Bürger_innen, alle Bürger*innen
 alle Politiker	alle Politiker_innen, alle Politiker*innen
