@@ -70,7 +70,7 @@ Techniker	Techniker_innen, Techniker*innen
 Informatiker	Informatiker_innen, Informatiker*innen
 Geschäftsführer	Geschäftsführer_innen, Geschäftsführer*innen
 Gründer	Gründende, Gründer_innen, Gründer*innen
-Erzieher	Erzieher_innen, Erzieher*innen
+Erzieher	Erziehende, Erzieher_innen, Erzieher*innen
 Fahrer	Fahrer_innen, Fahrer*innen
 Bauarbeiter	Bauarbeiter_innen, Bauarbeiter*innen
 Klempner	Klempner_innen, Klempner*innen
@@ -182,7 +182,7 @@ die Gründer	die Gründer_innen, die Gründer*innen
 die Erzieher	die Erzieher_innen, die Erzieher*innen
 die Fahrer	die Fahrer_innen, die Fahrer*innen
 die Bauarbeiter	die Bauarbeiter_innen, die Bauarbeiter*innen
-die Klemptner	die Klemptner_innen, die Klemptner*innen
+die Klempner	die Klempner_innen, die Klempner*innen
 die Musiker	die Musiker_innen, die Musiker*innen
 die Nutzer	die Nutzer_innen, die Nutzer*innen
 die User	die User_innen, die User*innen
@@ -265,7 +265,7 @@ Liebe Gründer	Liebe Gründenden, Liebe Gründer_innen, Liebe Gründer*innen
 Liebe Erzieher	Liebe Erzieher_innen, Liebe Erzieher*innen
 Liebe Fahrer	Liebe Fahrer_innen, Liebe Fahrer*innen
 Liebe Bauarbeiter	Liebe Bauarbeiter_innen, Liebe Bauarbeiter*innen
-Liebe Klemptner	Liebe Klemptner_innen, Liebe Klemptner*innen
+Liebe Klempner	Liebe Klempner_innen, Liebe Klempner*innen
 Liebe Musiker	Liebe Musiker_innen, Liebe Musiker*innen
 Liebe Nutzer	Liebe Nutzer_innen, Liebe Nutzer*innen
 Liebe User	Liebe User_innen, Liebe User*innen
@@ -348,7 +348,7 @@ Sehr geehrte Gründer	Sehr geehrte Gründer_innen, Sehr geehrte Gründer*innen
 Sehr geehrte Erzieher	Sehr geehrte Erzieher_innen, Sehr geehrte Erzieher*innen
 Sehr geehrte Fahrer	Sehr geehrte Fahrer_innen, Sehr geehrte Fahrer*innen
 Sehr geehrte Bauarbeiter	Sehr geehrte Bauarbeiter_innen, Sehr geehrte Bauarbeiter*innen
-Sehr geehrte Klemptner	Sehr geehrte Klemptner_innen, Sehr geehrte Klemptner*innen
+Sehr geehrte Klempner	Sehr geehrte Klempner_innen, Sehr geehrte Klempner*innen
 Sehr geehrte Musiker	Sehr geehrte Musiker_innen, Sehr geehrte Musiker*innen
 Sehr geehrte Nutzer	Sehr geehrte Nutzer_innen, Sehr geehrte Nutzer*innen
 Sehr geehrte User	Sehr geehrte User_innen, Sehr geehrte User*innen
@@ -431,7 +431,7 @@ alle Gründer	alle Gründer_innen, alle Gründer*innen
 alle Erzieher	alle Erzieher_innen, alle Erzieher*innen
 alle Fahrer	alle Fahrer_innen, alle Fahrer*innen
 alle Bauarbeiter	alle Bauarbeiter_innen, alle Bauarbeiter*innen
-alle Klemptner	alle Klemptner_innen, alle Klemptner*innen
+alle Klempner	alle Klempner_innen, alle Klempner*innen
 alle Musiker	alle Musiker_innen, alle Musiker*innen
 alle Nutzer	alle Nutzer_innen, alle Nutzer*innen
 alle User	alle User_innen, alle User*innen
